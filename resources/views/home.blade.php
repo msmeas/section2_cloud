@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>
-    Hello Cloud Computing Class
+    Hello Cloud Computing Class. This is Sok Meas from section 2. 
     </h1>
 </body>
 </html>
